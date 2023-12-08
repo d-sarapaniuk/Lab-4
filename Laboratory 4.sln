@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App", "App\App.csproj", "{1AEC3DFF-AA2E-4B72-8A06-EE2BEA4CE725}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Anonymous and Lambda", "Anonumous and Lambda\Anonymous and Lambda.csproj", "{50886884-CD13-4CA1-A49F-770002439624}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AEC3DFF-AA2E-4B72-8A06-EE2BEA4CE725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AEC3DFF-AA2E-4B72-8A06-EE2BEA4CE725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AEC3DFF-AA2E-4B72-8A06-EE2BEA4CE725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AEC3DFF-AA2E-4B72-8A06-EE2BEA4CE725}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50886884-CD13-4CA1-A49F-770002439624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50886884-CD13-4CA1-A49F-770002439624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50886884-CD13-4CA1-A49F-770002439624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50886884-CD13-4CA1-A49F-770002439624}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE8EE6CD-5841-4FB2-B91F-8650CA6AB413}
+	EndGlobalSection
+EndGlobal
